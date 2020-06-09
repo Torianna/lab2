@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="moj_tekst">Witaj Swiecie!</string>
+    <string name="imie">Klaudia</string>
+    <string name="nazwisko">Goralska</string>
+    <string name="wydzial">Informatyki</string>
+    <string name="uniwersytet">ZUT</string>
+    <string name="Grupa">32B</string>
+</resources>
